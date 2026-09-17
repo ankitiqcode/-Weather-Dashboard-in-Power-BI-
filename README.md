@@ -1,33 +1,75 @@
-# -Weather-Dashboard-in-Power-BI-
+# 🌦️ Weather & Air Quality Dashboard
 
-🌦 Weather & Air Quality Dashboard
-# 📌 About
+An interactive Weather & Air Quality Dashboard developed in Microsoft Power BI to visualize weather conditions, forecasts, air quality, and environmental metrics in a clean and interactive interface.
 
-- This project is an interactive Weather & Air Quality Dashboard built using Power BI and integrated with a Weather API. It provides real-time weather updates, forecasts, air quality metrics, and environmental insights in a visually engaging way.
+📊 Dashboard Preview
 
-# 📝 Short Description
+<img width="1296" height="741" alt="image" src="https://github.com/user-attachments/assets/d3e89195-82c1-48d4-9d89-92737b257273" />
 
-- A data-driven Power BI dashboard that visualizes temperature, humidity, wind speed, UV index, air quality (PM2.5, PM10, CO, NO2, SO2, O3), and rain probability with clear and actionable insights.
 
-# 🛠 Tech Stack
+# ✨ Key Features
 
-- Power BI – Dashboard & Data Visualization 
-- Weather API – Real-time data source
-- DAX & Power Query – Data modeling & transformations
-- Data Analytics – For forecast & trend analysis
+🌡️ Current temperature and weather condition
 
-# 🌐 Data Source
+📅 7-day weather forecast and temperature trends
 
-Weather & Air Quality data is fetched via OpenWeather API (or other chosen weather API).
+💧 Humidity, pressure, precipitation, visibility and wind speed
 
-# ✨ Feature Highlights
+☀️ UV Index monitoring
 
-✅ Real-time weather conditions (temperature, humidity, wind speed, visibility, etc.)
-✅ 7-day weather forecast with trend visualization
-✅ Air Quality Index (PM2.5, PM10, NO2, SO2, O3, CO)
-✅ Sunrise & Sunset timings
-✅ Rain probability analysis with forecasted percentages
-✅ Interactive city selection (Delhi, Gangtok, Indore, etc.)
-✅ Clean, modern, and user-friendly UI for quick insights
+🌫️ Air Quality Index with major pollutants:
 
-# 📸 Screenshot----https://github.com/CodingwithAnkit-tech/-Weather-Dashboard-in-Power-BI-/blob/main/Weather%20%26%20Air%20Quality%20Dashboard.png
+PM10
+
+PM2.5
+
+CO
+
+NO₂
+
+SO₂
+
+O₃
+
+🌅 Sunrise and sunset timings
+
+🌧️ Daily chance of rain
+
+📍 Interactive city selection
+
+🎨 Modern and user-friendly Power BI interface
+
+🛠️ Tech Stack
+
+Power BI – Dashboard & visualization
+
+Power Query – Data transformation
+
+DAX – Calculations and measures
+
+Weather API – Weather & air-quality data
+
+Data Analytics – Forecast and trend analysis
+
+🔄 Data Flow
+
+Weather API
+    ↓
+Power Query
+    ↓
+Data Cleaning & Transformation
+    ↓
+DAX & Data Modeling
+    ↓
+Power BI Dashboard
+
+🎯 Project Objective
+
+The goal of this project is to transform weather and air-quality data into clear, actionable visual insights that allow users to quickly understand current conditions, forecast trends, rainfall probability, and pollution levels.
+
+👨‍💻 Author
+
+Ankit Verma
+Data Analyst | Power BI | SQL | Python | Advanced Excel
+
+⭐ If you find this project useful, consider giving the repository a star!
